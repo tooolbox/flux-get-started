@@ -1,0 +1,1 @@
+{"jobID":"5bcf09c3-2a4b-c81a-3874-aac7d860c701","spec":{"type":"policy","cause":{"Message":"","User":"Matthew McCullough \u003cmmccullough@bridgepub.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.tag.podinfod":"glob:"},"remove":{}}}},"result":null}

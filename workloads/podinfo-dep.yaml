@@ -8,7 +8,7 @@ metadata:
     app: podinfo
   annotations:
     flux.weave.works/tag.init: regex:^3.10.*
-    flux.weave.works/tag.podinfod: semver:~2.1
+    flux.weave.works/tag.podinfod: glob:3.*
     fluxcd.io/automated: 'true'
     fluxcd.io/tag.stefanprodan/podinfo: 'glob:'
     fluxcd.io/tag.tag.stefanprodan/podinfo: 'glob:'
